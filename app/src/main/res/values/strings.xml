@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PlanningPokerAdmin</string>
+    <string name="et_name_text">Name</string>
+    <string name="btn_login_text">Log In</string>
+    <string name="active_admin">Active Admin</string>
+    <string name="active_group">Active Group</string>
+    <string name="active_question">Active Question</string>
+    <string name="et_group_code_text">New group code</string>
+    <string name="btn_create_group_text">Create Group</string>
+    <string name="btn_new_question_text">Add Question</string>
+    <string name="btn_start_time_text">Select Start Time</string>
+    <string name="btn_question_time_text">Select question time</string>
+    <string name="btn_start_text">Start</string>
+    <string name="tv_title_questions_text">Questions</string>
+    <string name="btn_delete_text">Delete</string>
+    <string name="tv_group_text">Group:</string>
+    <string name="tv_title_add_question_text">New Question</string>
+    <string name="et_new_question_text">Question</string>
+    <string name="btn_add_text">Add</string>
+    <string name="tv_title_groups_text">Groups</string>
+    <string name="nothing_selected">Nothing selected</string>
+    <string name="et_time">mm - ss</string>
+    <string name="et_minute_text">minutes</string>
+    <string name="tv_title_votes_text">Votes</string>
+    <string name="tv_question_label">Question:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_press_text">Press 2 times</string>
+</resources>
